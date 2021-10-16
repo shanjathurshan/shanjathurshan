@@ -32,5 +32,5 @@
 ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
