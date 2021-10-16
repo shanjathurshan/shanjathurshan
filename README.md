@@ -33,6 +33,3 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-
-![watchers](https://img.shields.io/github/watchers/shanjathurshan/shanjathurshan.svg)
-- 🎢 Profile Visitors Count:  ![](https://visitor-badge.glitch.me/badge?page_id=shanjathurshan)
