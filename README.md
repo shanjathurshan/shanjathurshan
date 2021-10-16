@@ -34,5 +34,4 @@
 ![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
-
-https://img.shields.io/github/watchers/{username}/{repo-name}.svg
+![watchers](https://img.shields.io/github/watchers/shanjathurshan/shanjathurshan.svg)
