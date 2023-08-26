@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shan_jathurshan/)](https://twitter.com/shan_jathurshan/)
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://shanjathurshan.github.io/)](https://shanjathurshan.github.io/)
 
-![shanjathurshan's github stats](https://github-readme-stats.vercel.app/api?username=shanjathurshan&show_icons=true&hide_border=true)
+![shanjathurshan's github stats](https://github-readme-stats.vercel.app/api?username=shanjathurshan&show_icons=true&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanjathurshan&layout=compact)
 
 ### Skills : <br/>
