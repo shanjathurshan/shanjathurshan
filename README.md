@@ -6,9 +6,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shan_jathurshan/)](https://twitter.com/shan_jathurshan/)
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://shanjathurshan.github.io/)](https://shanjathurshan.github.io/)
 
-<img align="center" src="https://readmestats.999857.xyz/api?username=shanjathurshan&show_icons=true&theme=tokyonight&hide_border=true" alt="Shan's github stats"/>
-<img align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=shanjathurshan&theme=tokyonight&hide_border=true&line_height=17&layout=compact" />
-
 
 ### Skills : <br/>
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
